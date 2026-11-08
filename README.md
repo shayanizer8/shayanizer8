@@ -5,10 +5,10 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · shayanizer8</sub></p>
 <h1>Muhammad Shayan</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Software Engineer</h2>
 <p>Creating software that sees real use
 | FAST-NUCES</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p><strong>Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/shayanizer8">GitHub</a></p>
 </td>
